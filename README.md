@@ -1,10 +1,11 @@
+```
 **++++++++*****####%%####**********+++================--------   aarkin@github
 ############**********####%%%%%##################*##########**   -------------
 *********########**********+++***#**********#########**#######   OS: Bengaluru, India
-++++**********#####%%##*+==+**#**#%%##########################   Host: NetApp Inc.
-************+++++**=...    ..:----=*#####**#####**************   Role: Software Engineer (MTS-1)
-+++++***********##-         .::::-::===+*++++++++++++++*******   Team: Solutions Integration Engineering
-+++++++++******+-:          .   ...  :::=#%%%#################   Uptime: Since April 2025
+++++**********#####%%##*       **#%%##########################   Host: NetApp Inc.
+************+++++**=               *#####**#####**************   Role: Software Engineer (MTS-1)
++++++***********##-                  ==+*++++++++++++++*******   Team: Solutions Integration Engineering
++++++++++******+-                     ::=#%%%#################   Uptime: Since April 2025
 **************=                         =##*******************   
 *************+-.    .-=-::::::.::::.    =#********************   Projects: Shift AI Assistant (LLM/RAG)
 +++**********-..   :===++++++++++++*+.. .#####################   ..........: DataOps Toolkit (MCP + LangChain)
@@ -20,16 +21,15 @@
                     ...::::::::--=+=::                           ...........: Haystack (deepset-ai)
 .::::::::----:::::--::...:-:.   :---.   .   .                    
 ::------===-----=**=:=:.          :+-  ......................    GitHub:   github.com/Aarkin7
-::---------===*:+#+=---:.       .:===+:..  ...............       LinkedIn: linkedin.com/in/your-handle
-::::::--+*###-=-.#*+=::::.... ..:-=*:+%*=-:    .....             Email:    your.email@example.com
+::---------===*:+#+=---:.       .:===+:..  ...............       LinkedIn: linkedin.com/in/aarkinkarnik
+::::::--+*###-=-.#*+=::::.... ..:-=*:+%*=-:    .....             Email:    aarkinkarnik2001@gmail.com
 .:=++++-=##*#*:= -#**+-:.::....:-=+*-=#%%++*+:.. .............   
 -#%%###*::+###+:= -#***+-::::::-=+*#=+##%%+=#@#=-. ...........   
 =:=*%#*##=.=#*#=:= -#**##+=--=-=+*##==##%%@*-#@#+#=              
 ::+--*%#+#+:*#*#::= -##**##*++++++*#+:##%%%%-=%%+=@#:            
  +%#+:-##+#=*#*##.:=.:*####*++*****++*#%+===-:#%#-*%%- .......   
-*#*#%*.:#**+*#**#= -+.:----:  =+*#*=#%#%+-#*#:-%%=+#%*. ......   ```
-
-<div align="center">
+*#*#%*.:#**+*#**#= -+.:----:  =+*#*=#%#%+-#*#:-%%=+#%*. ......
+```
 
 ### 👋 Hi, I'm Aarkin Karnik
 
@@ -37,8 +37,6 @@ Software Engineer @ NetApp · Bengaluru, India
 
 Building LLM/RAG pipelines, agentic MCP tools, and OAuth-integrated retrievers.
 Competitive programmer (LeetCode Knight) and open-source contributor.
-
-</div>
 
 ---
 
@@ -52,7 +50,3 @@ Competitive programmer (LeetCode Knight) and open-source contributor.
 
 - [LiteLLM (BerriAI)](https://github.com/BerriAI/litellm) — cross-tenant security fix
 - [Haystack (deepset-ai)](https://github.com/deepset-ai/haystack) — agent-loop, data-loss, and `Document.id` fixes
-
-### 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarkin7&show_icons=true&theme=tokyonight)
