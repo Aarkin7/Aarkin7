@@ -1,16 +1,59 @@
-## Hi there 👋
+```
+**++++++++*****####%%####**********+++================--------   aarkin@github
+############**********####%%%%%##################*##########**   -------------
+*********########**********+++***#**********#########**#######   OS: Bengaluru, India
+++++**********#####%%##*+==+**#**#%%##########################   Host: NetApp Inc.
+************+++++**=...    ..:----=*#####**#####**************   Role: Software Engineer (MTS-1)
++++++***********##-         .::::-::===+*++++++++++++++*******   Team: Solutions Integration Engineering
++++++++++******+-:          .   ...  :::=#%%%#################   Uptime: Since April 2025
+**************=                         =##*******************   
+*************+-.    .-=-::::::.::::.    =#********************   Projects: Shift AI Assistant (LLM/RAG)
++++**********-..   :===++++++++++++*+.. .#####################   ..........: DataOps Toolkit (MCP + LangChain)
+=+++++++++++*+.   .====++******######+: .*********************   ..........: AIDE Integration (OAuth 2.0)
+=======+++++++=.  .==------==---::-=+*-.:+++++++++++++++++++++   
+------=========:  :-.      .-=.    .:-*::+====================   Education: B.E. Computer Eng., PICT (9.31 CGPA)
+----------------. -:.    ..-+#+-:..:-=*=-=--------------------   .........: MSCS, UT Austin (ongoing)
+:::::::::::::::::.-======++**###*+*##%#*--:::::---::::::::::::   
+::............. :.-+****====-==-+=-=+****-.:::::::::::::::....   CP: LeetCode Knight, Top ~2.5% globally
+                .-----:.:-.    .:=-  :-++.....................   ..: 1,400+ problems solved
+                 .:::.   ..::-====-: .--     .....    .          
+                    ::...:::..::-==-::-.                         Open Source: LiteLLM (BerriAI)
+                    ...::::::::--=+=::                           ...........: Haystack (deepset-ai)
+.::::::::----:::::--::...:-:.   :---.   .   .                    
+::------===-----=**=:=:.          :+-  ......................    GitHub:   github.com/Aarkin7
+::---------===*:+#+=---:.       .:===+:..  ...............       LinkedIn: linkedin.com/in/your-handle
+::::::--+*###-=-.#*+=::::.... ..:-=*:+%*=-:    .....             Email:    your.email@example.com
+.:=++++-=##*#*:= -#**+-:.::....:-=+*-=#%%++*+:.. .............   
+-#%%###*::+###+:= -#***+-::::::-=+*#=+##%%+=#@#=-. ...........   
+=:=*%#*##=.=#*#=:= -#**##+=--=-=+*##==##%%@*-#@#+#=              
+::+--*%#+#+:*#*#::= -##**##*++++++*#+:##%%%%-=%%+=@#:            
+ +%#+:-##+#=*#*##.:=.:*####*++*****++*#%+===-:#%#-*%%- .......   
+*#*#%*.:#**+*#**#= -+.:----:  =+*#*=#%#%+-#*#:-%%=+#%*. ......   ```
 
-<!--
-**Aarkin7/Aarkin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 👋 Hi, I'm Aarkin Karnik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer @ NetApp · Bengaluru, India
+
+Building LLM/RAG pipelines, agentic MCP tools, and OAuth-integrated retrievers.
+Competitive programmer (LeetCode Knight) and open-source contributor.
+
+</div>
+
+---
+
+### 🔧 What I work on
+
+- **Shift AI Assistant** — LLM/RAG pipeline
+- **DataOps Toolkit** — MCP tools with LangChain agent orchestration
+- **AIDE Integration** — LangChain custom retriever with OAuth 2.0
+
+### 🏆 Open Source
+
+- [LiteLLM (BerriAI)](https://github.com/BerriAI/litellm) — cross-tenant security fix
+- [Haystack (deepset-ai)](https://github.com/deepset-ai/haystack) — agent-loop, data-loss, and `Document.id` fixes
+
+### 📈 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarkin7&show_icons=true&theme=tokyonight)
